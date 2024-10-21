@@ -1,2 +1,6 @@
 # theweekend
-python script, discord webhook--posts files to discord server/channel
+python script
+
+Create discord webhook
+edit script with webhook and file path(s)
+creat task scheduler
